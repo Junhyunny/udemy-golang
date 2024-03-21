@@ -1,5 +1,5 @@
 
-## Chapter 18. Hands on excercise #3 - go tour step 4-7
+## Chapter 19. Hands on excercise #3 - go tour step 4-7
 
 함수 파라미터에 같은 타입이 들어간다면 타입 선언을 생략할 수 있다.
 

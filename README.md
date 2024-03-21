@@ -8,4 +8,6 @@
 
 ## Chapters
 
-- [Chpater 018. Hands on excercise #2 - go tour step 1-3](./docs/chapter-018.md)
+- [Chpater 18. Hands on excercise #2 - go tour step 1-3](./docs/chapter-018.md)
+- [Chapter 19. Hands on excercise #3 - go tour step 4-7](./docs/chapter-019.md)
+- [Chapter 20. Hands on excercise #4 - go tour step 8-10](./docs/chapter-020.md)
